@@ -41,7 +41,8 @@ Thanks for stopping by! Feel free to explore my work and reach out if you're on 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keppejn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Visitor Count](https://profile-counter.glitch.me/keppejn/count.svg)
+![Visitor Count](https://hitcount.io/api/hits?url=github.com/keppejn/keppejn&label=Visitors)
+
  
 
 
